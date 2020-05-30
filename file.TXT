@@ -6,4 +6,7 @@
 трусишка заяка серенький
 под ёлочкой скакал
 и т.д.
--------------
+
+some more text
+text text text
+it's a feature
